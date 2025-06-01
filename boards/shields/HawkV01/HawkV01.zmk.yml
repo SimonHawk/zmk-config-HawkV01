@@ -1,0 +1,13 @@
+file_format: "1"
+id: hawkV01
+name: HawkV01
+type: shield
+url: https://github.com/SimonHawk
+requires: [pro_micro]
+exposes:
+features:
+  - keys
+  - studio
+siblings:
+  - HawkV01_left
+  - HawkV01_right
